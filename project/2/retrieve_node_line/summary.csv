@@ -1,0 +1,3 @@
+node_type,best_module_filename,best_module_name,best_module_params,best_execution_time
+retrieval,0.parquet,bm25,{'top_k': 20},0.0507536888122558
+passage_reranker,0.parquet,pass_reranker,{'top_k': 3},1.128514607747396e-05
